@@ -1,4 +1,4 @@
-console.log("This is index js");
+console.log("This is library prototype");
 
 //constructor
 function Book(name, author, type) {
